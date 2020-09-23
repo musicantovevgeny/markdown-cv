@@ -33,17 +33,19 @@ __B.A. in Mathematics (Cum Laude) (Techion Haifa)__
 `2006-2012`
 __Software Engineer (Intel - IDC haifa)__
 Static Timing Analysis
-'2018-2019'
+
+`2018-2019`
 __Postdocotal Fellow (Hebrew University)__ 
-'2019-2020'
+
+`2019-2020`
 __Lecturer (Tel-Aviv University)__
 
 ## Publications
-__Reciprocity laws and K-theory__  AKT - Joint with Ehud Meir - <a href="https://arxiv.org/abs/1410.5391">arXiv</a>
+1. __Reciprocity laws and K-theory__  AKT - Joint with Ehud Meir - <a href="https://arxiv.org/abs/1410.5391">arXiv</a>
 arXiv:1410.5391 
 
 
-__Module categories over graded fusion categories__ - Joint with Ehud Meir -Journal of pure and applied algebra <a href="https://arxiv.org/abs/1010.4333">arXiv</a> 
+1. __Module categories over graded fusion categories__ - Joint with Ehud Meir -Journal of pure and applied algebra <a href="https://arxiv.org/abs/1010.4333">arXiv</a> 
 
 
 <!-- ### Footer
