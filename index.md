@@ -5,10 +5,9 @@ title: Evgeny Musicantov's CV
 # Evgeny Musicantov PhD
 Mathematician, Researcher, potentially a Data scientist.
 
-<div id="webaddress">
-<a href="musicantov.evgeny@gmail.com">musicantov.evgeny@gmail.com</a>
 
-</div>
+<a href="mailto:musicantov.evgeny@gmail.com">musicantov.evgeny@gmail.com</a>
+
 
 
 ## Education
